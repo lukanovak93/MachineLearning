@@ -1,5 +1,5 @@
-# MachineLearning
-Machine Learning course on FER, UNIZG
+# Machine Learning course on FER, UNIZG
+## Assignments
   
-   1. Assignment - Linear Regression
+   1. Linear Regression
    2. Linear and Discriminative Models, Logistic Regression
